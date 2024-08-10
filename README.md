@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://path-to-your-gif-or-svg" alt="📻 РадиоСлушалка - Ваше окно в мир радио!" width="600">
+  <img src="https://github.com/Khabibullokh18022004/RadioApp/blob/main/animated-title.svg" alt="📻 РадиоСлушалка - Ваше окно в мир радио!" width="600">
 </h1>
 
 
