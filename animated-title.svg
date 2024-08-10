@@ -1,7 +1,7 @@
 <svg width="800" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .text {
-      fill: red;
+      fill: purple;
       font-family: 'Arial, sans-serif';
       font-size: 36px;
       animation: bounce 2s infinite;
